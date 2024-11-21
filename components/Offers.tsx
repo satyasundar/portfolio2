@@ -14,16 +14,16 @@ const Offers = () => {
         <div className="w-full px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mt-20">
           <OfferCard
             title="AI Engineering"
-            subTitle="Designing and deploying end-to-end AI solutions, including data preprocessing, model development, deployment, and integration into production systems."
+            subTitle="End-to-end AI solutions with data preprocessing, model development and deployment"
             Icon={RxCopy}
           />
           <OfferCard
             title="MLOPS"
-            subTitle="Implementing scalable MLOps pipelines for seamless deployment, monitoring, and automation of machine learning models in production"
+            subTitle="Implementing scalable MLOps pipelines for seamless deployment, monitoring, and automation"
             Icon={SiAntdesign}
           />
           <OfferCard
-            title="Fullstack Development"
+            title="Fullstack Dev"
             subTitle="Developping full-stack web applications using modern frameworks"
             Icon={FaChartPie}
           />
