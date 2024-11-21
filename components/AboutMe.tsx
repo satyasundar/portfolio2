@@ -26,7 +26,7 @@ const AboutMe = () => {
           apply the latest tools and techniques to my work.
         </p>
         <div className="w-[700px] grid grid-cols-1 md:grid-cols-2 gap-8">
-          <AboutList title="Ai Application Development" />
+          <AboutList title="AI Application Development" />
           <AboutList title="Data Engineering" />
           <AboutList title="Fullstack Solutions" />
           <AboutList title="Databricks Expertise" />
