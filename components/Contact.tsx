@@ -44,7 +44,9 @@ const Contact = () => {
             </div>
             <div className="flex flex-col items-center gap-3">
               <FaEnvelope className="text-4xl text-designColor" />
-              <p className="text-sm tracking-wide">satyanayak2040@gmail.com</p>
+              <p className="text-sm tracking-wide">
+                satyasundar.nayak@gmail.com
+              </p>
             </div>
           </div>
 
@@ -97,7 +99,7 @@ const Contact = () => {
               <p>
                 or say 'Hello' -{" "}
                 <span className="font-semibold text-designColor">
-                  satyanayak2040@gmail.com
+                  satyasundar.nayak@gmail.com
                 </span>
               </p>
             </div>

@@ -16,7 +16,7 @@ const AboutMe = () => {
             Satya Nayak
           </span>{" "}
           and I'm a freelance{" "}
-          <span className="font-bold text-white">Blockchain Engineer</span>. I
+          <span className="font-bold text-white">Data and AI Engineer</span>. I
           am a passionate and versatile full stack engineer with a deep love for
           creating innovative and efficient solution. With Bachelor's degree in
           Computer Science, I've been navigating the ever evolving world of
@@ -26,10 +26,10 @@ const AboutMe = () => {
           apply the latest tools and techniques to my work.
         </p>
         <div className="w-[700px] grid grid-cols-1 md:grid-cols-2 gap-8">
-          <AboutList title="Web Development" />
-          <AboutList title="Blockchain Development" />
-          <AboutList title="DAPPs Develoment" />
-          <AboutList title="NFT Development" />
+          <AboutList title="Ai Application Development" />
+          <AboutList title="Data Engineering" />
+          <AboutList title="Fullstack Solutions" />
+          <AboutList title="Databricks Expertise" />
         </div>
       </div>
     </section>

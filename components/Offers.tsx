@@ -13,23 +13,23 @@ const Offers = () => {
         </h1>
         <div className="w-full px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mt-20">
           <OfferCard
-            title="Cross Chain"
-            subTitle="With availability of COSMOS Interchain and Ethereum, cross chain applications are on the rise"
+            title="AI Engineering"
+            subTitle="Designing and deploying end-to-end AI solutions, including data preprocessing, model development, deployment, and integration into production systems."
             Icon={RxCopy}
           />
           <OfferCard
-            title="Ethereum"
-            subTitle="Developing smart contracts on Ethereum network have wide list of users"
+            title="MLOPS"
+            subTitle="Implementing scalable MLOps pipelines for seamless deployment, monitoring, and automation of machine learning models in production"
             Icon={SiAntdesign}
           />
           <OfferCard
-            title="Full Stack"
-            subTitle="Full stack applications are way to achive an end to end solution to a problem"
+            title="Fullstack Development"
+            subTitle="Developping full-stack web applications using modern frameworks"
             Icon={FaChartPie}
           />
           <OfferCard
-            title="Training"
-            subTitle="Blockchain and web3 fullstack trainig are available in catalogue incase anyone needs."
+            title="Freelancing"
+            subTitle="Developping tailored AI solutions as a freelancer"
             Icon={FaConnectdevelop}
           />
         </div>
