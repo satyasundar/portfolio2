@@ -38,7 +38,7 @@ const Banner = () => {
     loop: true,
     typeSpeed: 150,
     deleteSpeed: 20,
-    delaySpeed: 5000,
+    delaySpeed: 3000,
   });
   return (
     <div id="home" className="w-full h-[700px] relative">
