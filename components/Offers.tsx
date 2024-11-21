@@ -13,7 +13,7 @@ const Offers = () => {
         </h1>
         <div className="w-full px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mt-20">
           <OfferCard
-            title="AI Engineering"
+            title="Data and AI Engineering"
             subTitle="End-to-end AI solutions with data preprocessing, model development and deployment"
             Icon={RxCopy}
           />
@@ -23,13 +23,13 @@ const Offers = () => {
             Icon={SiAntdesign}
           />
           <OfferCard
-            title="Fullstack Dev"
-            subTitle="Developping full-stack web applications using modern frameworks"
+            title="Fullstack Development"
+            subTitle="Developping full-stack web applications using mordern python and javascipt stacks"
             Icon={FaChartPie}
           />
           <OfferCard
             title="Freelancing"
-            subTitle="Developping tailored AI solutions as a freelancer"
+            subTitle="Developping tailored AI solutions as a freelancer, managing end-to-end project lifecycle"
             Icon={FaConnectdevelop}
           />
         </div>
