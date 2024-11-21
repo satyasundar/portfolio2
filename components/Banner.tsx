@@ -34,11 +34,7 @@ const Banner = () => {
 
   const [menu, setMenu] = useState(false);
   const [text] = useTypewriter({
-    words: [
-      "An Engineer By Passion",
-      "Full Stack Developer",
-      "A Blockchain Engineer",
-    ],
+    words: ["An Engineer By Passion", "Data & AI Architect"],
     loop: true,
     typeSpeed: 150,
     deleteSpeed: 20,
