@@ -29,7 +29,7 @@ const AboutMe = () => {
           <AboutList title="AI Application Development" />
           <AboutList title="Data Engineering" />
           <AboutList title="Fullstack Solutions" />
-          <AboutList title="Databricks Expertise" />
+          <AboutList title="Agentic AI Solutions" />
         </div>
       </div>
     </section>
